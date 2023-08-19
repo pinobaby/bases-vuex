@@ -5,7 +5,7 @@
  
     <button @click="increment">+1</button>
     <button @click="incrementBy">+5</button>
-    <button @click="randomInt" v-bind:disabled="isLoading">Random</button>
+    <!-- <button @click="randomInt" v-bind:disabled="isLoading">Random</button> -->
     
 
     <h1>mapState</h1>
